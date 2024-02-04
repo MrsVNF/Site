@@ -165,7 +165,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Universe.tf">
+    <meta property="og:title" content="MrsVNF :3">
     <meta property="og:description" content="Cheating, innovated.">
     <meta name="description" content="Cheating, innovated.">
     <meta name="keywords" content="creative, technology, future">
